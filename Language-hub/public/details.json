@@ -1,0 +1,186 @@
+[
+  {
+    "skillId": 1,
+    "skillName": "English Speaking Basics",
+    "providerName": "James Carter",
+    "providerEmail": "james@languagehub.com",
+    "price": 12,
+    "rating": 4.5,
+    "slotsAvailable": 8,
+    "description": "Learn essential English speaking skills with daily practice lessons.",
+    "image": "https://i.ibb.co/yc1swC0Z/group-kids-studying-school.jpg",
+    "category": "English"
+  },
+  {
+    "skillId": 2,
+    "skillName": "Spoken English Practice",
+    "providerName": "Sara Hossain",
+    "providerEmail": "sara@skillswap.com",
+    "price": 10,
+    "rating": 4.6,
+    "slotsAvailable": 5,
+    "description": "Conversational English sessions for non-native speakers.",
+    "image": "https://i.ibb.co/yc1swC0Z/group-kids-studying-school.jpg",
+    "category": "English"
+  },
+  {
+    "skillId": 3,
+    "skillName": "English Grammar & Writing",
+    "providerName": "Amina Rahman",
+    "providerEmail": "amina@englishboost.com",
+    "price": 14,
+    "rating": 4.7,
+    "slotsAvailable": 6,
+    "description": "Improve your writing through structured grammar and composition exercises.",
+    "image": "https://i.ibb.co/yc1swC0Z/group-kids-studying-school.jpg",
+    "category": "English"
+  },
+
+  {
+    "skillId": 4,
+    "skillName": "Chinese for Beginners",
+    "providerName": "Li Wei",
+    "providerEmail": "liwei@languagehub.cn",
+    "price": 15,
+    "rating": 4.8,
+    "slotsAvailable": 6,
+    "description": "Start learning Mandarin Chinese with fun, interactive lessons.",
+    "image": "https://i.ibb.co/yc1swC0Z/group-kids-studying-school.jpg",
+    "category": "Chinese"
+  },
+  {
+    "skillId": 5,
+    "skillName": "Mandarin Tone Mastery",
+    "providerName": "Chen Xiaoling",
+    "providerEmail": "chen@mandarinskills.cn",
+    "price": 18,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Master the four tones in Mandarin to speak clearly and confidently.",
+    "image": "https://i.ibb.co/yc1swC0Z/group-kids-studying-school.jpg",
+    "category": "Chinese"
+  },
+  {
+    "skillId": 6,
+    "skillName": "Everyday Chinese Conversations",
+    "providerName": "Wang Ming",
+    "providerEmail": "wang@nihao.cn",
+    "price": 16,
+    "rating": 4.7,
+    "slotsAvailable": 5,
+    "description": "Learn daily-use Chinese phrases for travel, shopping, and socializing.",
+    "image": "https://i.ibb.co/yc1swC0Z/group-kids-studying-school.jpg",
+    "category": "Chinese"
+  },
+
+  {
+    "skillId": 7,
+    "skillName": "French Conversation Class",
+    "providerName": "Amélie Dupont",
+    "providerEmail": "amelie@frenchparis.fr",
+    "price": 14,
+    "rating": 4.7,
+    "slotsAvailable": 4,
+    "description": "Improve your French conversation skills with a native speaker.",
+    "image": "https://i.ibb.co/yc1swC0Z/group-kids-studying-school.jpg",
+    "category": "French"
+  },
+  {
+    "skillId": 8,
+    "skillName": "Beginner French A1",
+    "providerName": "Julien Laurent",
+    "providerEmail": "julien@bonjour.fr",
+    "price": 13,
+    "rating": 4.6,
+    "slotsAvailable": 7,
+    "description": "Learn basic French vocabulary, greetings, and sentence structure.",
+    "image": "https://i.ibb.co/yc1swC0Z/group-kids-studying-school.jpg",
+    "category": "French"
+  },
+  {
+    "skillId": 9,
+    "skillName": "French Pronunciation Workshop",
+    "providerName": "Sophie Martin",
+    "providerEmail": "sophie@parisaccent.fr",
+    "price": 17,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Perfect your French accent and learn correct pronunciation techniques.",
+    "image": "https://i.ibb.co/yc1swC0Z/group-kids-studying-school.jpg",
+    "category": "French"
+  },
+
+  {
+    "skillId": 10,
+    "skillName": "Japanese Hiragana & Basics",
+    "providerName": "Yuki Sato",
+    "providerEmail": "yuki@nihongo.jp",
+    "price": 16,
+    "rating": 4.9,
+    "slotsAvailable": 3,
+    "description": "Master Hiragana and learn basic Japanese expressions.",
+    "image": "https://i.ibb.co/yc1swC0Z/group-kids-studying-school.jpg",
+    "category": "Japanese"
+  },
+  {
+    "skillId": 11,
+    "skillName": "Basic Japanese for Anime Lovers",
+    "providerName": "Haruto Tanaka",
+    "providerEmail": "haruto@otakustudy.jp",
+    "price": 14,
+    "rating": 4.8,
+    "slotsAvailable": 5,
+    "description": "Learn Japanese words and phrases commonly used in anime and pop culture.",
+    "image": "https://i.ibb.co/yc1swC0Z/group-kids-studying-school.jpg",
+    "category": "Japanese"
+  },
+  {
+    "skillId": 12,
+    "skillName": "Japanese Speaking Practice",
+    "providerName": "Miyu Kobayashi",
+    "providerEmail": "miyu@speakinghub.jp",
+    "price": 18,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Join live speaking sessions and practice conversational Japanese.",
+    "image": "https://i.ibb.co/yc1swC0Z/group-kids-studying-school.jpg",
+    "category": "Japanese"
+  },
+
+  {
+    "skillId": 13,
+    "skillName": "Spanish for Travelers",
+    "providerName": "Carlos Rivera",
+    "providerEmail": "carlos@hablaespanol.es",
+    "price": 11,
+    "rating": 4.5,
+    "slotsAvailable": 7,
+    "description": "Learn practical Spanish phrases for travel and daily use.",
+    "image": "https://i.ibb.co/yc1swC0Z/group-kids-studying-school.jpg",
+    "category": "Spanish"
+  },
+  {
+    "skillId": 14,
+    "skillName": "Beginner Spanish A1",
+    "providerName": "Maria González",
+    "providerEmail": "maria@espanol.es",
+    "price": 12,
+    "rating": 4.6,
+    "slotsAvailable": 6,
+    "description": "Learn basic Spanish greetings, grammar, and vocabulary.",
+    "image": "https://i.ibb.co/yc1swC0Z/group-kids-studying-school.jpg",
+    "category": "Spanish"
+  },
+  {
+    "skillId": 15,
+    "skillName": "Latin American Spanish Accent",
+    "providerName": "Diego Fernández",
+    "providerEmail": "diego@latinespanol.com",
+    "price": 15,
+    "rating": 4.7,
+    "slotsAvailable": 5,
+    "description": "Understand the accent, slang, and culture of Latin American Spanish.",
+    "image": "https://i.ibb.co/yc1swC0Z/group-kids-studying-school.jpg",
+    "category": "Spanish"
+  }
+]

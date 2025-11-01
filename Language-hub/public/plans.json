@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Diamond User",
+    "price": "$99.90/month",
+    "features": [
+      "10 Languages In A Month",
+      "20 Exercises In A Day",
+      "Achievement Award",
+      "15 Live Speaking Sessions",
+      "Get Certificated",
+      "8 Level Test"
+    ]
+  },
+  {
+    "name": "Gold User",
+    "price": "$59.90/month",
+    "features": [
+      "5 Languages In A Month",
+      "10 Exercises In A Day",
+      "Achievement Award",
+      "10 Live Speaking Sessions",
+      "Get Certificated",
+      "5 Level Test"
+    ]
+  },
+  {
+    "name": "Silver User",
+    "price": "$29.90/month",
+    "features": [
+      "2 Languages In A Month",
+      "5 Exercises In A Day",
+      "Achievement Award",
+      "5 Live Speaking Sessions",
+      "Get Certificated",
+      "3 Level Test"
+    ]
+  },
+  {
+    "name": "Bronze User",
+    "price": "$19.90/month",
+    "features": [
+      "1 Language In A Month",
+      "2 Exercises In A Day",
+      "Achievement Award",
+      "2 Live Speaking Sessions",
+      "Get Certificated",
+      "1 Level Test"
+    ]
+  }
+]

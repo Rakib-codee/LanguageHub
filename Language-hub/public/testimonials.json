@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Sara Hossain",
+    "role": "Language Tutor",
+    "avatar": "https://i.ibb.co/tMpv2zKG/photo-1752650736187-103863529be3.jpg",
+    "feedback": "This platform transformed my language skills. The courses are structured and interactive!",
+    "rating": 5
+  },
+  {
+    "name": "John Doe",
+    "role": "Student",
+    "avatar": "https://i.ibb.co/kVCKMMNn/istockphoto-2168090156-612x612.webp",
+    "feedback": "I loved the speaking exercises and live sessions. Highly recommend for anyone learning a new language.",
+    "rating": 4
+  },
+  {
+    "name": "Priya Sen",
+    "role": "Student",
+    "avatar": "https://i.ibb.co/Kpp9RMWn/photo-1757143137415-0790a01bfa6d.jpg",
+    "feedback": "The tutors are amazing and the progress tracking really helped me improve my fluency fast.",
+    "rating": 5
+  }
+]
