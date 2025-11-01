@@ -244,8 +244,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👤 Author
 
 **Rakib**
-- GitHub: [Your GitHub Profile]
-- Email: [Your Email]
+- GitHub: (https://github.com/Rakib-codee)
+- Email: rakibislam4913@gmail.com
 
 ## 🙏 Acknowledgments
 
